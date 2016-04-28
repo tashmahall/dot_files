@@ -1,0 +1,23 @@
+{
+	"font_size": 11,
+	"http_proxy":
+	[
+		"http://10.1.11.115:3128"
+	],
+	"https_proxy":
+	[
+		"http://10.1.11.115:3128"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"proxy_password":
+	[
+		"ten_igor"
+	],
+	"proxy_username":
+	[
+		"1g0r.s4nt0s"
+	]
+}

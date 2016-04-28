@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"Glue",
+		"Package Control",
+		"Stino"
+	],
+	"repositories":
+	[
+		"https://github.com/gepd/Stino/tree/new-stino"
+	]
+}
